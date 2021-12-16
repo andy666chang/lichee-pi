@@ -1,0 +1,12 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/Lichee-Pi/u-boot.git
+	branch = nano-v2018.01
+[submodule "sunxi-tools"]
+	path = sunxi-tools
+	url = https://github.com/Icenowy/sunxi-tools.git
+	branch = f1c100s-spiflash
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/Icenowy/linux.git
+	branch = f1c100s-480272lcd-test
