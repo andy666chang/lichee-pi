@@ -10,3 +10,6 @@
 	path = kernel
 	url = https://github.com/Icenowy/linux.git
 	branch = f1c100s-480272lcd-test
+[submodule "lv_port_linux_frame_buffer"]
+	path = lv_port_linux_frame_buffer
+	url = https://github.com/lvgl/lv_port_linux_frame_buffer.git
